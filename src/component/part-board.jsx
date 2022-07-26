@@ -18,9 +18,10 @@ class PartBoard extends Component {
     }
 
     onClickHandler(event) {
+        const heightCollapsedString = "10px"
         const contentElement = $(event.target).siblings(".content");
-        if (contentElement.css("max-height") !== "0px") {
-            contentElement.css("max-height", "0px");
+        if (contentElement.css("max-height") !== heightCollapsedString) {
+            contentElement.css("max-height", heightCollapsedString);
             return;
         }
         contentElement.css("max-height", (contentElement.prop("scrollHeight") + "px"))
