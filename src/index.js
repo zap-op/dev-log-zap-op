@@ -19,7 +19,7 @@ root.render(
                 </SectionBoard>
             </PartBoard>
             <PartBoard title="Weekly">
-                <SectionBoard title="Week 1">
+                <SectionBoard title="Week 1 - 19/07/2022-26/07/2022">
                     <WEEK_1/>
                 </SectionBoard>
             </PartBoard>

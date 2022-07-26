@@ -27,7 +27,7 @@ export function WEEK_1() {
     return (
         <div>
             <p>Nhiệm vụ chính: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Main Tasks</a></p>
-            <p>Tất cả các task: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
+            <p>Tất cả task: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
             <p>Đề cương chi tiết: <a href="https://github.com/zap-op/thesis-doc/blob/main/weekly-track/%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20chi%20ti%E1%BA%BFt_Week%201.pdf" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Tuần 1</a></p>
         </div>
     )
