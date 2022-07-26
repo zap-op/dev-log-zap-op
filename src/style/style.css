@@ -1,0 +1,74 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+}
+
+body div#root {
+  margin: 0 auto;
+}
+
+@media (min-width: 1400px) {
+  body div#root {
+    max-width: 1320px;
+  }
+}
+
+div.board-container {
+  background-color: antiquewhite;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  margin-top: 1rem;
+  padding: 2rem;
+}
+
+div.board-container h1.title {
+  margin-top: 0;
+  text-align: center;
+}
+
+div.part-board-container {
+  background-color: aquamarine;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+div.part-board-container h3.title {
+  cursor: pointer;
+  margin: 0.5rem 0 0.25rem 1rem;
+}
+
+div.part-board-container hr {
+  background: rgba(0, 0, 0, 0.5);
+  border: 0;
+  height: 1px;
+  margin: 0 0 0.5rem 0;
+}
+
+div.part-board-container .content {
+  overflow: hidden;
+  -webkit-transition: max-height 0.2s ease-out;
+  transition: max-height 0.2s ease-out;
+}
+
+div.part-board-container.onhover {
+  opacity: 0.8;
+}
+
+div.section-board-container {
+  background-color: aqua;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+div.section-board-container h4.title {
+  margin: 1rem 0 0 1rem;
+}
+
+div.section-board-container .content {
+  margin-left: 1.5rem;
+}
+/*# sourceMappingURL=style.css.map */
