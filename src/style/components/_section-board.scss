@@ -3,8 +3,19 @@ div.section-board-container {
     border-radius: 10px;
     margin: 1rem;
 
-    h4.title {
+    .title-container {
+        display: flex;
+        flex-flow: row;
         margin: 1rem 0 0 1rem;
+
+        h4.title {
+            margin: 0;
+        }
+
+        .date-time {
+            margin: 0 1rem 0 auto;
+            opacity: 0.6;
+        }
     }
 
     .content {
