@@ -23,12 +23,38 @@ export function REPO() {
     )
 }
 
+export function DOC() {
+    return (
+        <div>
+            <p>Thư mục tài liệu các phiên bản: <a href="https://drive.google.com/drive/folders/12VgMMc487mXa6Hs8TZRMP-xBs247D8GZ?usp=sharing" target="_blank" rel="noopener noreferrer">Snapshot document</a></p>
+        </div>
+    )
+}
+
 export function WEEK_1() {
     return (
         <div>
             <p>Nhiệm vụ chính: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Main Tasks</a></p>
             <p>Tất cả task: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
-            <p>Đề cương chi tiết: <a href="https://github.com/zap-op/thesis-doc/blob/main/weekly-track/%C4%90%E1%BB%81%20c%C6%B0%C6%A1ng%20chi%20ti%E1%BA%BFt_Week%201.pdf" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Tuần 1</a></p>
+            <p>Đề cương chi tiết: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v1.0.pdf</a></p>
+        </div>
+    )
+}
+
+export function WEEK_2() {
+    return (
+        <div>
+            <p>Nhiệm vụ chính: <a href="https://jira.external-share.com/issue/35760/week_2_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Main Tasks</a></p>
+            <p>Tất cả task: <a href="https://jira.external-share.com/issue/35759/week_2_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Tasks</a></p>
+            <br />
+            <p>Trang theo dõi trả lời cho Câu hỏi định hướng: <a href="https://confluence.external-share.com/content/46316/c_u_h_i_nh_h_ng" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng</a></p>
+            <p>Bản pdf Câu hỏi định hướng: <a href="https://drive.google.com/file/d/13KzuJg9kHhVre3TbkdSEDuVbhTzX8FB9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 2_v1.0.pdf</a></p>
+            <br />
+            <p>Trang theo dõi Product Backlog: <a href="https://confluence.external-share.com/content/46317/product_backlog" target="_blank" rel="noopener noreferrer">Product Backlog</a></p>
+            <p>Bản pdf Product Backlog: <a href="https://drive.google.com/file/d/1nz5Ntb271iPXfBvMSXgDhJxh7MyC8vMU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 2_v1.0.pdf</a></p>
+            <br />
+            <p>Trang theo dõi Báo cáo tổng quan về ZAP: <a href="hhttps://confluence.external-share.com/content/46323/zap_pen_testing_overview_report" target="_blank" rel="noopener noreferrer">Báo cáo tổng quan về ZAP</a></p>
+            <p>Bản pdf Báo cáo tổng quan về ZAP: <a href="https://drive.google.com/file/d/1iav6CVqE88ntS1mPj65uABGQ8KO21YdT/view?usp=sharing" target="_blank" rel="noopener noreferrer">ZAP Pen-testing Overview Report_Week 2_v1.0.pdf</a></p>
         </div>
     )
 }
