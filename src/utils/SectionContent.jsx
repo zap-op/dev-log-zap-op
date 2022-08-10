@@ -70,9 +70,9 @@ export function WEEK_3() {
             <p>Nhiệm vụ chính: <a href="https://jira.external-share.com/issue/36744/week_3_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Main Tasks</a></p>
             <p>Tất cả task: <a href="https://jira.external-share.com/issue/36742/week_3_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Tasks</a></p>
             <br />
-            <p>Trang sản phẩm: <a href="#" target="_blank" rel="noopener noreferrer">Working on...</a></p>
+            <p>Trang sản phẩm: <a href="#" target="_blank" rel="noopener noreferrer">Đang cập nhật...</a></p>
             <br />
-            <p>Bản pdf Product Backlog của tuần: <a href="#" target="_blank" rel="noopener noreferrer">Working on...</a></p>
+            <p>Bản pdf Product Backlog của tuần: <a href="#" target="_blank" rel="noopener noreferrer">Đang cập nhật...</a></p>
         </div>
     )
 }
