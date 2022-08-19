@@ -4,6 +4,7 @@ html {
 
 body {
     margin: 0;
+    min-width: 768px;
 
     div#root {
         // > 15' inches standar
@@ -14,5 +15,3 @@ body {
         }
     }
 }
-
-@import './variables';
