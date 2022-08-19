@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import Board from './component/board';
 import PartBoard from './component/part-board';
 import SectionBoard from './component/section-board';
-import { DOC ,ISSUE_BOARD, REPO, WEEK_1, WEEK_2, WEEK_3 } from '../src/utils/SectionContent'
+import { DOC ,ISSUE_BOARD, REPO, WEEK_1, WEEK_2, WEEK_3, WEEK_4 } from '../src/utils/SectionContent'
 import './style/style.scss'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -30,6 +30,9 @@ root.render(
                 </SectionBoard>
                 <SectionBoard title="Week 3" startDate="02-08-2022" endDate="08-08-2022">
                     <WEEK_3/>
+                </SectionBoard>
+                <SectionBoard title="Week 4" startDate="09-08-2022" endDate="15-08-2022">
+                    <WEEK_4/>
                 </SectionBoard>
             </PartBoard>
         </Board>
