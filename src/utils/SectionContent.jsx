@@ -42,7 +42,7 @@ export function WEEK_1() {
         <div>
             <p>Main Tasks: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Main Tasks</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v1.0.pdf</a></p>
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v0.1.pdf</a></p>
         </div>
     )
 }
@@ -54,7 +54,7 @@ export function WEEK_2() {
             <p>All Tasks: <a href="https://jira.external-share.com/issue/35759/week_2_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Tasks</a></p>
             <br />
             <p>Tracking page of "Orientation Question and Answer": <a href="https://confluence.external-share.com/content/46316/c_u_h_i_nh_h_ng" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng</a></p>
-            <p>"Orientation Question and Answer" pdf of the week: <a href="https://drive.google.com/file/d/13KzuJg9kHhVre3TbkdSEDuVbhTzX8FB9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 2_v1.0.pdf</a></p>
+            <p>"Orientation Question and Answer" pdf of the week: <a href="https://drive.google.com/file/d/13KzuJg9kHhVre3TbkdSEDuVbhTzX8FB9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 2_v0.1.pdf</a></p>
             <br />
             <p>Tracking page of "Product Backlog": <a href="https://confluence.external-share.com/content/46317/product_backlog" target="_blank" rel="noopener noreferrer">Product Backlog</a></p>
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1nz5Ntb271iPXfBvMSXgDhJxh7MyC8vMU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 2_v1.0.pdf</a></p>
@@ -80,10 +80,25 @@ export function WEEK_4() {
             <p>Main Tasks: <a href="https://jira.external-share.com/issue/37706/week_4_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Main Tasks</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/37705/week_4_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Tasks</a></p>
             <br />
-            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oIRsUk5oRuvwF3v5x9tbq-rQB4ngNVWS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 4_v1.1.pdf</a></p>
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oIRsUk5oRuvwF3v5x9tbq-rQB4ngNVWS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 4_v2.0.pdf</a></p>
             <br />
             <p>Tracking page of "Backend Architecture": <a href="https://confluence.external-share.com/content/47638/backend_architecture" target="_blank" rel="noopener noreferrer">Backend Architecture</a></p>
             <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1sKI8eP9r1P8y0swALsgtdde9BMChArUB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 4_v1.0.pdf</a></p>
+        </div>
+    )
+}
+
+export function WEEK_5() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/38348/week_5_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/38347/week_5_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1FhvbdaAXiCGKvpmgEZZI5PRIeBn6aWT4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 5_v0.2.pdf</a></p>
+            <br />
+            <p>"Orientation Question and Answer" pdf of the week: <a href="https://drive.google.com/file/d/1NHq27ohxGcudVRp1M8eyl3cltnkopc_U/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 5_v0.2.pdf</a></p>
+            <br />
+            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1XjLEinCKJLWoxohHbCO18CyIhlnU58y4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 5_v1.1.pdf</a></p>
         </div>
     )
 }
