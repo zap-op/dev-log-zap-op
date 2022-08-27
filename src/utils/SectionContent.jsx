@@ -59,7 +59,7 @@ export function WEEK_2() {
             <p>Tracking page of "Product Backlog": <a href="https://confluence.external-share.com/content/46317/product_backlog" target="_blank" rel="noopener noreferrer">Product Backlog</a></p>
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1nz5Ntb271iPXfBvMSXgDhJxh7MyC8vMU/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 2_v1.0.pdf</a></p>
             <br />
-            <p>Tracking page of "ZAP Overview Report": <a href="hhttps://confluence.external-share.com/content/46323/zap_pen_testing_overview_report" target="_blank" rel="noopener noreferrer">ZAP Overview Report</a></p>
+            <p>Tracking page of "ZAP Overview Report": <a href="https://confluence.external-share.com/content/46323/zap_pen_testing_overview_report" target="_blank" rel="noopener noreferrer">ZAP Overview Report</a></p>
             <p>"ZAP Overview Report" pdf of the week: <a href="https://drive.google.com/file/d/1iav6CVqE88ntS1mPj65uABGQ8KO21YdT/view?usp=sharing" target="_blank" rel="noopener noreferrer">ZAP Pen-testing Overview Report_Week 2_v1.0.pdf</a></p>
         </div>
     )
