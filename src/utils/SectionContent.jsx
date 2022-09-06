@@ -111,3 +111,16 @@ export function WEEK_6() {
         </div>
     )
 }
+
+export function WEEK_7() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39235/week_7_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/39234/week_7_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1pRwdF7ZPqhrD7lJABCLX_5LOdQhO57gD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 7_v0.3.pdf</a></p>
+            <br />
+            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/18zFq2gzbLtJ4kVSwcRUErOJBHxTbWUca/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 7_v1.2.pdf</a></p>
+        </div>
+    )
+}
