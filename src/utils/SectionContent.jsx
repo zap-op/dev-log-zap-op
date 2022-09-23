@@ -124,3 +124,12 @@ export function WEEK_7() {
         </div>
     )
 }
+
+export function WEEK_8() {
+    return  (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41091/week_8_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41090/week_8_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Tasks</a></p>
+        </div>
+    )
+}
