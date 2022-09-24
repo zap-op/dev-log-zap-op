@@ -141,6 +141,8 @@ export function WEEK_9() {
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41112/week_9_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Tasks</a></p>
             <br />
             <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1M-3CsOOEvAD2rpYBf6E8eJwwCejOaMtB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 9_v2.1.pdf</a></p>
         </div>
     )
 }
