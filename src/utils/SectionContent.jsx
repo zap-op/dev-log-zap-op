@@ -104,7 +104,7 @@ export function WEEK_5() {
 }
 
 export function WEEK_6() {
-    return  (
+    return (
         <div>
             <p>Main Tasks: <a href="https://jira.external-share.com/issue/39233/week_6_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Main Tasks</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/39232/week_6_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Tasks</a></p>
@@ -126,10 +126,21 @@ export function WEEK_7() {
 }
 
 export function WEEK_8() {
-    return  (
+    return (
         <div>
             <p>Main Tasks: <a href="https://jira.external-share.com/issue/41091/week_8_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Main Tasks</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41090/week_8_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Tasks</a></p>
+        </div>
+    )
+}
+
+export function WEEK_9() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41113/week_9_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41112/week_9_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
         </div>
     )
 }

@@ -46,6 +46,9 @@ root.render(
                 <SectionBoard title="Week 8" startDate="06-08-2022" endDate="13-09-2022">
                     <SectionContent.WEEK_8 />
                 </SectionBoard>
+                <SectionBoard title="Week 9" startDate="14-08-2022" endDate="21-09-2022">
+                    <SectionContent.WEEK_9 />
+                </SectionBoard>
             </PartBoard>
         </Board>
     </>
