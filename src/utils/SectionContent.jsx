@@ -152,6 +152,17 @@ export function WEEK_10() {
         <div>
             <p>Main Tasks: <a href="https://jira.external-share.com/issue/41115/week_10_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Main Tasks</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41114/week_10_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Tasks</a></p>
-            </div>
+        </div>
+    );
+}
+
+export function WEEK_11() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41725/week_11_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41723/week_11_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1gSxInNO-HzOXJkyEGmxWRZymEb_jNMCe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 11_v2.2.pdf</a></p>
+        </div>
     );
 }

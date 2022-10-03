@@ -43,14 +43,17 @@ root.render(
                 <SectionBoard title="Week 7" startDate="30-08-2022" endDate="05-09-2022">
                     <SectionContent.WEEK_7 />
                 </SectionBoard>
-                <SectionBoard title="Week 8" startDate="06-08-2022" endDate="13-09-2022">
+                <SectionBoard title="Week 8" startDate="06-09-2022" endDate="13-09-2022">
                     <SectionContent.WEEK_8 />
                 </SectionBoard>
-                <SectionBoard title="Week 9" startDate="14-08-2022" endDate="21-09-2022">
+                <SectionBoard title="Week 9" startDate="14-09-2022" endDate="21-09-2022">
                     <SectionContent.WEEK_9 />
                 </SectionBoard>
-                <SectionBoard title="Week 10" startDate="22-08-2022" endDate="26-09-2022">
+                <SectionBoard title="Week 10" startDate="22-09-2022" endDate="26-09-2022">
                     <SectionContent.WEEK_10 />
+                </SectionBoard>
+                <SectionBoard title="Week 11" startDate="26-09-2022" endDate="03-10-2022">
+                    <SectionContent.WEEK_11 />
                 </SectionBoard>
             </PartBoard>
         </Board>
