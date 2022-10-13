@@ -30,9 +30,11 @@ export function DOC() {
             <p>Product Backlog: <a href="https://confluence.external-share.com/content/46317/product_backlog" target="_blank" rel="noopener noreferrer">Product Backlog</a></p>
             <p>ZAP Overview Report: <a href="https://confluence.external-share.com/content/46323/zap_pen_testing_overview_report" target="_blank" rel="noopener noreferrer">ZAP Overview Report</a></p>
             <p>Backend Architecture: <a href="https://confluence.external-share.com/content/47638/backend_architecture" target="_blank" rel="noopener noreferrer">Backend Architecture</a></p>
+            <p>Database Design: <a href="https://confluence.external-share.com/content/51837/database_design" target="_blank" rel="noopener noreferrer">Database Design</a></p>
+            <p>Process Flow: <a href="https://confluence.external-share.com/content/51838/process_flow" target="_blank" rel="noopener noreferrer">Process Flow</a></p>
+            <p>Preference Prototype: <a href="https://confluence.external-share.com/content/51839/preference_prototype" target="_blank" rel="noopener noreferrer">Preference Prototype</a></p>
             <br />
             <p>Snapshot Document Folder: <a href="https://drive.google.com/drive/folders/12VgMMc487mXa6Hs8TZRMP-xBs247D8GZ?usp=sharing" target="_blank" rel="noopener noreferrer">Snapshot document</a></p>
-            <br />
         </div>
     );
 }
@@ -163,6 +165,26 @@ export function WEEK_11() {
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41723/week_11_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1gSxInNO-HzOXJkyEGmxWRZymEb_jNMCe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 11_v2.2.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_12() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1NdIkb2q-PhVc-nCMnm2CKsSz5d8f3-OX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 12_v2.2.1.pdf</a></p>
+            <br />
+            <p>Tracking page of "Database Design": <a href="https://confluence.external-share.com/content/51837/database_design" target="_blank" rel="noopener noreferrer">Database Design</a></p>
+            <p>"Database Design" pdf of the week: <a href="https://drive.google.com/file/d/1-jUYKms_S6FMG7VdVPozoNth-hweFgk2/view?usp=sharing" target="_blank" rel="noopener noreferrer">Database Design_Week 12_v0.2.pdf</a></p>
+            <br />
+            <p>Tracking page of "Process Flow": <a href="https://confluence.external-share.com/content/51838/process_flow" target="_blank" rel="noopener noreferrer">Process Flow</a></p>
+            <p>"Process Flow" pdf of the week: <a href="https://drive.google.com/file/d/1ZL6isMAQiaLxyQtTIEau5ytq-P_JERYW/view?usp=sharing" target="_blank" rel="noopener noreferrer">Process Flow_Week 12_v0.1.pdf</a></p>
+            <br />
+            <p>Tracking page of "Preference Prototype": <a href="https://confluence.external-share.com/content/51839/preference_prototype" target="_blank" rel="noopener noreferrer">Preference Prototype</a></p>
+            <p>"Preference Prototype" pdf of the week: <a href="https://drive.google.com/file/d/1MPYjv3TiYFAUP7W_I7cY3k9M_wOs06rN/view?usp=sharing" target="_blank" rel="noopener noreferrer">Preference Prototype_Week 12_v0.1.pdf</a></p>
         </div>
     );
 }
