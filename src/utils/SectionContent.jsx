@@ -39,12 +39,124 @@ export function DOC() {
     );
 }
 
-export function WEEK_1() {
+export function WEEK_12() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v0.1.pdf</a></p>
+            <p>Main Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1NdIkb2q-PhVc-nCMnm2CKsSz5d8f3-OX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 12_v2.2.1.pdf</a></p>
+            <br />
+            <p>Tracking page of "Database Design": <a href="https://confluence.external-share.com/content/51837/database_design" target="_blank" rel="noopener noreferrer">Database Design</a></p>
+            <p>"Database Design" pdf of the week: <a href="https://drive.google.com/file/d/1-jUYKms_S6FMG7VdVPozoNth-hweFgk2/view?usp=sharing" target="_blank" rel="noopener noreferrer">Database Design_Week 12_v0.2.pdf</a></p>
+            <br />
+            <p>Tracking page of "Process Flow": <a href="https://confluence.external-share.com/content/51838/process_flow" target="_blank" rel="noopener noreferrer">Process Flow</a></p>
+            <p>"Process Flow" pdf of the week: <a href="https://drive.google.com/file/d/1ZL6isMAQiaLxyQtTIEau5ytq-P_JERYW/view?usp=sharing" target="_blank" rel="noopener noreferrer">Process Flow_Week 12_v0.1.pdf</a></p>
+            <br />
+            <p>Tracking page of "Preference Prototype": <a href="https://confluence.external-share.com/content/51839/preference_prototype" target="_blank" rel="noopener noreferrer">Preference Prototype</a></p>
+            <p>"Preference Prototype" pdf of the week: <a href="https://drive.google.com/file/d/1MPYjv3TiYFAUP7W_I7cY3k9M_wOs06rN/view?usp=sharing" target="_blank" rel="noopener noreferrer">Preference Prototype_Week 12_v0.1.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_11() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41725/week_11_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41723/week_11_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1gSxInNO-HzOXJkyEGmxWRZymEb_jNMCe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 11_v2.2.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_10() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41115/week_10_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41114/week_10_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Tasks</a></p>
+        </div>
+    );
+}
+
+export function WEEK_9() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41113/week_9_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41112/week_9_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1M-3CsOOEvAD2rpYBf6E8eJwwCejOaMtB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 9_v2.1.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_8() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41091/week_8_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41090/week_8_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Tasks</a></p>
+        </div>
+    );
+}
+
+export function WEEK_7() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39235/week_7_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/39234/week_7_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1pRwdF7ZPqhrD7lJABCLX_5LOdQhO57gD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 7_v0.3.pdf</a></p>
+            <br />
+            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/18zFq2gzbLtJ4kVSwcRUErOJBHxTbWUca/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 7_v1.2.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_6() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39233/week_6_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/39232/week_6_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Tasks</a></p>
+        </div>
+    );
+}
+
+export function WEEK_5() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/38348/week_5_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/38347/week_5_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1FhvbdaAXiCGKvpmgEZZI5PRIeBn6aWT4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 5_v0.2.pdf</a></p>
+            <br />
+            <p>"Orientation Question and Answer" pdf of the week: <a href="https://drive.google.com/file/d/1NHq27ohxGcudVRp1M8eyl3cltnkopc_U/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 5_v0.2.pdf</a></p>
+            <br />
+            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1XjLEinCKJLWoxohHbCO18CyIhlnU58y4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 5_v1.1.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_4() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/37706/week_4_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/37705/week_4_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oIRsUk5oRuvwF3v5x9tbq-rQB4ngNVWS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 4_v2.0.pdf</a></p>
+            <br />
+            <p>Tracking page of "Backend Architecture": <a href="https://confluence.external-share.com/content/47638/backend_architecture" target="_blank" rel="noopener noreferrer">Backend Architecture</a></p>
+            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1sKI8eP9r1P8y0swALsgtdde9BMChArUB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 4_v1.0.pdf</a></p>
+        </div>
+    );
+}
+
+export function WEEK_3() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/36744/week_3_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 3 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/36742/week_3_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 3 Sprint Tasks</a></p>
         </div>
     );
 }
@@ -67,124 +179,12 @@ export function WEEK_2() {
     );
 }
 
-export function WEEK_3() {
+export function WEEK_1() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/36744/week_3_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 3 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/36742/week_3_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 3 Sprint Tasks</a></p>
-        </div>
-    );
-}
-
-export function WEEK_4() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/37706/week_4_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/37705/week_4_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Tasks</a></p>
-            <br />
-            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oIRsUk5oRuvwF3v5x9tbq-rQB4ngNVWS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 4_v2.0.pdf</a></p>
-            <br />
-            <p>Tracking page of "Backend Architecture": <a href="https://confluence.external-share.com/content/47638/backend_architecture" target="_blank" rel="noopener noreferrer">Backend Architecture</a></p>
-            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1sKI8eP9r1P8y0swALsgtdde9BMChArUB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 4_v1.0.pdf</a></p>
-        </div>
-    );
-}
-
-export function WEEK_5() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/38348/week_5_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/38347/week_5_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Tasks</a></p>
-            <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1FhvbdaAXiCGKvpmgEZZI5PRIeBn6aWT4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 5_v0.2.pdf</a></p>
-            <br />
-            <p>"Orientation Question and Answer" pdf of the week: <a href="https://drive.google.com/file/d/1NHq27ohxGcudVRp1M8eyl3cltnkopc_U/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 5_v0.2.pdf</a></p>
-            <br />
-            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1XjLEinCKJLWoxohHbCO18CyIhlnU58y4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 5_v1.1.pdf</a></p>
-        </div>
-    );
-}
-
-export function WEEK_6() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39233/week_6_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/39232/week_6_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Tasks</a></p>
-        </div>
-    );
-}
-
-export function WEEK_7() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39235/week_7_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/39234/week_7_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Tasks</a></p>
-            <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1pRwdF7ZPqhrD7lJABCLX_5LOdQhO57gD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 7_v0.3.pdf</a></p>
-            <br />
-            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/18zFq2gzbLtJ4kVSwcRUErOJBHxTbWUca/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 7_v1.2.pdf</a></p>
-        </div>
-    );
-}
-
-export function WEEK_8() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41091/week_8_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/41090/week_8_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Tasks</a></p>
-        </div>
-    );
-}
-
-export function WEEK_9() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41113/week_9_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/41112/week_9_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Tasks</a></p>
-            <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
-            <br />
-            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1M-3CsOOEvAD2rpYBf6E8eJwwCejOaMtB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 9_v2.1.pdf</a></p>
-        </div>
-    );
-}
-
-export function WEEK_10() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41115/week_10_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/41114/week_10_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Tasks</a></p>
-        </div>
-    );
-}
-
-export function WEEK_11() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41725/week_11_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="https://jira.external-share.com/issue/41723/week_11_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Tasks</a></p>
-            <br />
-            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1gSxInNO-HzOXJkyEGmxWRZymEb_jNMCe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 11_v2.2.pdf</a></p>
-        </div>
-    );
-}
-
-export function WEEK_12() {
-    return (
-        <div>
-            <p>Main Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Tasks</a></p>
-            <br />
-            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1NdIkb2q-PhVc-nCMnm2CKsSz5d8f3-OX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 12_v2.2.1.pdf</a></p>
-            <br />
-            <p>Tracking page of "Database Design": <a href="https://confluence.external-share.com/content/51837/database_design" target="_blank" rel="noopener noreferrer">Database Design</a></p>
-            <p>"Database Design" pdf of the week: <a href="https://drive.google.com/file/d/1-jUYKms_S6FMG7VdVPozoNth-hweFgk2/view?usp=sharing" target="_blank" rel="noopener noreferrer">Database Design_Week 12_v0.2.pdf</a></p>
-            <br />
-            <p>Tracking page of "Process Flow": <a href="https://confluence.external-share.com/content/51838/process_flow" target="_blank" rel="noopener noreferrer">Process Flow</a></p>
-            <p>"Process Flow" pdf of the week: <a href="https://drive.google.com/file/d/1ZL6isMAQiaLxyQtTIEau5ytq-P_JERYW/view?usp=sharing" target="_blank" rel="noopener noreferrer">Process Flow_Week 12_v0.1.pdf</a></p>
-            <br />
-            <p>Tracking page of "Preference Prototype": <a href="https://confluence.external-share.com/content/51839/preference_prototype" target="_blank" rel="noopener noreferrer">Preference Prototype</a></p>
-            <p>"Preference Prototype" pdf of the week: <a href="https://drive.google.com/file/d/1MPYjv3TiYFAUP7W_I7cY3k9M_wOs06rN/view?usp=sharing" target="_blank" rel="noopener noreferrer">Preference Prototype_Week 12_v0.1.pdf</a></p>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v0.1.pdf</a></p>
         </div>
     );
 }
