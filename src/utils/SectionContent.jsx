@@ -42,8 +42,8 @@ export function DOC() {
 export function WEEK_12() {
     return (
         <div>
-            <p>Main Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Main Tasks</a></p>
-            <p>All Tasks: <a href="" target="_blank" rel="noopener noreferrer">Week 12 Sprint Tasks</a></p>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41727/week_12_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 12 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/41726/week_12_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 12 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1NdIkb2q-PhVc-nCMnm2CKsSz5d8f3-OX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 12_v2.2.1.pdf</a></p>
             <br />
