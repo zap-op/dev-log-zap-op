@@ -39,6 +39,15 @@ export function DOC() {
     );
 }
 
+export function WEEK_14() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44244/week_14_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 14 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/44243/week_14_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 14 Sprint Tasks</a></p>
+        </div>
+    );
+}
+
 export function WEEK_13() {
     return (
         <div>
