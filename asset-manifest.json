@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dev-log-zap-op/static/css/main.1b5feacd.css",
-    "main.js": "/dev-log-zap-op/static/js/main.654504d0.js",
+    "main.js": "/dev-log-zap-op/static/js/main.b3b0af38.js",
     "index.html": "/dev-log-zap-op/index.html",
     "main.1b5feacd.css.map": "/dev-log-zap-op/static/css/main.1b5feacd.css.map",
-    "main.654504d0.js.map": "/dev-log-zap-op/static/js/main.654504d0.js.map"
+    "main.b3b0af38.js.map": "/dev-log-zap-op/static/js/main.b3b0af38.js.map"
   },
   "entrypoints": [
     "static/css/main.1b5feacd.css",
-    "static/js/main.654504d0.js"
+    "static/js/main.b3b0af38.js"
   ]
 }
