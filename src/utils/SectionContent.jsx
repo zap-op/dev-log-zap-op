@@ -39,6 +39,17 @@ export function DOC() {
     );
 }
 
+export function WEEK_15() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44246/week_15_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 15 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/44245/week_15_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 15 Sprint Tasks</a></p>
+            <br />
+            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/11xcXh5GlLsyNa4tXVOf37aVcXJJeEmio/view?usp=share_link" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 15_v1.0.0.pdf</a></p>
+        </div>
+    );
+}
+
 export function WEEK_14() {
     return (
         <div>
