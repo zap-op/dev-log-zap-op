@@ -23,7 +23,7 @@ export function REPO() {
     );
 }
 
-export function DOC() {
+export function PRODUCT_DOC() {
     return (
         <div>
             <p>Orientation Question and Answer: <a href="https://confluence.external-share.com/content/46316/c_u_h_i_nh_h_ng" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng</a></p>
@@ -33,7 +33,21 @@ export function DOC() {
             <p>Database Design: <a href="https://confluence.external-share.com/content/51837/database_design" target="_blank" rel="noopener noreferrer">Database Design</a></p>
             <p>Process Flow: <a href="https://confluence.external-share.com/content/51838/process_flow" target="_blank" rel="noopener noreferrer">Process Flow</a></p>
             <p>Preference Prototype: <a href="https://confluence.external-share.com/content/51839/preference_prototype" target="_blank" rel="noopener noreferrer">Preference Prototype</a></p>
-            <br />
+        </div>
+    );
+}
+
+export function THESIS_DOC() {
+    return (
+        <div>
+            <p>Tracking page of "Applied Thesis - Chapter 1": <a href="https://confluence.external-share.com/content/54023/ch_ng_1_gi_i_thi_u_t_i" target="_blank" rel="noopener noreferrer">Applied Thesis - Chapter 1</a></p>
+        </div>
+    );
+}
+
+export function SNAPSHOT_DOC() {
+    return (
+        <div>
             <p>Snapshot Document Folder: <a href="https://drive.google.com/drive/folders/12VgMMc487mXa6Hs8TZRMP-xBs247D8GZ?usp=sharing" target="_blank" rel="noopener noreferrer">Snapshot document</a></p>
         </div>
     );

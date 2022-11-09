@@ -17,8 +17,16 @@ root.render(
                 <SectionBoard title="Repository">
                     <SectionContent.REPO />
                 </SectionBoard>
-                <SectionBoard title="Document">
-                    <SectionContent.DOC />
+                <SectionBoard title="Tracking Pages">
+                    <SectionBoard title="Product Document">
+                        <SectionContent.PRODUCT_DOC />
+                    </SectionBoard>
+                    <SectionBoard title="Applied Thesis Document">
+                        <SectionContent.THESIS_DOC />
+                    </SectionBoard>
+                    <SectionBoard title="Snapshot Document">
+                        <SectionContent.SNAPSHOT_DOC />
+                    </SectionBoard>
                 </SectionBoard>
             </PartBoard>
             <PartBoard title="Weekly">
