@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 class SectionBoard extends Component {
     render() {
-        console.log(this.props.startDate);
         return (
             <div className="section-board-container">
                 <div className="title-container">

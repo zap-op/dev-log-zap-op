@@ -1,20 +1,10 @@
 import React, { Component } from 'react';
-import $ from 'jquery'
+import $ from "jquery";
 
 class PartBoard extends Component {
     constructor(props) {
         super(props);
-        this.onMouseEnterHandler = this.onMouseEnterHandler.bind(this);
-        this.onMouseLeaveHandler = this.onMouseLeaveHandler.bind(this);
         this.onClickHandler = this.onClickHandler.bind(this);
-    }
-
-    onMouseEnterHandler(event) {
-        $(event.target.parentElement).toggleClass("onhover");
-    }
-
-    onMouseLeaveHandler(event) {
-        $(event.target.parentElement).toggleClass("onhover");
     }
 
     onClickHandler(event) {
@@ -32,7 +22,7 @@ class PartBoard extends Component {
     render() {
         return (
             <div className="part-board-container">
-                <div className="title-container" onMouseEnter={event => this.onMouseEnterHandler(event)} onMouseLeave={event => this.onMouseLeaveHandler(event)} onClick={event => this.onClickHandler(event)}>
+                <div className="title-container" onClick={event => this.onClickHandler(event)}>
                     <h3 className="title">
                         {this.props.title}
                     </h3>
