@@ -8,7 +8,7 @@ import './style/style.scss'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <>
+    <div className="app-board-container">
         <Board>
             <PartBoard title="General Infomation">
                 <SectionBoard title="Tasks">
@@ -80,5 +80,5 @@ root.render(
                 </SectionBoard>
             </PartBoard>
         </Board>
-    </>
+    </div>
 );
