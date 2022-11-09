@@ -39,6 +39,20 @@ export function DOC() {
     );
 }
 
+export function WEEK_16() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44250/week_16_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 16 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/44249/week_16_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 16 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1ls_viO64ru8uNpXnm2NDFGWY71v1yDv_/view?usp=share_link" target="_blank" rel="noopener noreferrer">Product Backlog_Week 16_v2.3.0.pdf</a></p>
+            <br />
+            <p>Tracking page of "Applied Thesis - Chapter 1": <a href="https://confluence.external-share.com/content/54023/ch_ng_1_gi_i_thi_u_t_i" target="_blank" rel="noopener noreferrer">Applied Thesis - Chapter 1</a></p>
+            <p>"Applied Thesis - Chapter 1" pdf of the week: <a href="https://drive.google.com/file/d/1cF07N2JUCSadD1WkKe-Wqofz44J9rXKW/view?usp=share_link" target="_blank" rel="noopener noreferrer">Chương 1 - Giới thiệu đề tài_Week 16_v1.0.0</a></p>
+        </div>
+    );
+}
+
 export function WEEK_15() {
     return (
         <div>
