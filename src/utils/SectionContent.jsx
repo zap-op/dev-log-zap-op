@@ -53,6 +53,17 @@ export function SNAPSHOT_DOC() {
     );
 }
 
+export function WEEK_17() {
+    return (
+        <div>
+            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44252/week_17_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 17 Sprint Main Tasks</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/44251/week_17_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 17 Sprint Tasks</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oZGaR7iGOR_k47TA66NAYy8dHu4vuWAh/view?usp=share_link" target="_blank" rel="noopener noreferrer">Product Backlog_Week 16_v2.3.0.pdf</a></p>
+        </div>
+    );
+}
+
 export function WEEK_16() {
     return (
         <div>
