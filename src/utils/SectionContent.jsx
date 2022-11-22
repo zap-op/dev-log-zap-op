@@ -53,6 +53,19 @@ export function SNAPSHOT_DOC() {
     );
 }
 
+export function WEEK_18() {
+    return (
+        <div>
+            <p>Epic: <a href="https://jira.external-share.com/issue/44254/week_18_sprint_epic" target="_blank" rel="noopener noreferrer">Week 18 Sprint Epic</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/44253/week_18_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 18 Sprint Tasks</a></p>
+            <br />
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/1oY5GC4aBD8dsny7NgjvrEHJ6-eAWph2l/view?usp=share_link" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 18_v1.1.0.pdf</a></p>
+            <br />
+            <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1u8kJS4TvVWFOJpnGX_i0F5h1udRHj4rV/view?usp=share_link" target="_blank" rel="noopener noreferrer">Product Backlog_Week 18_v2.3.3.pdf</a></p>
+        </div>
+    );
+}
+
 export function WEEK_17() {
     return (
         <div>
