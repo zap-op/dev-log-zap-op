@@ -84,7 +84,7 @@ export function WEEK_15() {
             <p>Epic: <a href="https://jira.external-share.com/issue/44246/week_15_sprint_epic" target="_blank" rel="noopener noreferrer">Week 15 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/44245/week_15_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 15 Sprint Tasks</a></p>
             <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/11xcXh5GlLsyNa4tXVOf37aVcXJJeEmio/view?usp=share_link" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 15_v1.0.0.pdf</a></p>
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/11xcXh5GlLsyNa4tXVOf37aVcXJJeEmio/view?usp=share_link" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 15_v1.0.0.pdf</a></p>
         </div>
     );
 }
@@ -153,7 +153,7 @@ export function WEEK_9() {
             <p>Epic: <a href="https://jira.external-share.com/issue/41113/week_9_sprint_epic" target="_blank" rel="noopener noreferrer">Week 9 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41112/week_9_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Tasks</a></p>
             <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1M-3CsOOEvAD2rpYBf6E8eJwwCejOaMtB/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 9_v2.1.pdf</a></p>
         </div>
@@ -175,7 +175,7 @@ export function WEEK_7() {
             <p>Epic: <a href="https://jira.external-share.com/issue/39235/week_7_sprint_epic" target="_blank" rel="noopener noreferrer">Week 7 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/39234/week_7_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Tasks</a></p>
             <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1pRwdF7ZPqhrD7lJABCLX_5LOdQhO57gD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 7_v0.3.pdf</a></p>
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/1pRwdF7ZPqhrD7lJABCLX_5LOdQhO57gD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 7_v0.3.pdf</a></p>
             <br />
             <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/18zFq2gzbLtJ4kVSwcRUErOJBHxTbWUca/view?usp=sharing" target="_blank" rel="noopener noreferrer">Backend Architecture_Week 7_v1.2.pdf</a></p>
         </div>
@@ -197,7 +197,7 @@ export function WEEK_5() {
             <p>Epic: <a href="https://jira.external-share.com/issue/38348/week_5_sprint_epic" target="_blank" rel="noopener noreferrer">Week 5 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/38347/week_5_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Tasks</a></p>
             <br />
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1FhvbdaAXiCGKvpmgEZZI5PRIeBn6aWT4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 5_v0.2.pdf</a></p>
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/1FhvbdaAXiCGKvpmgEZZI5PRIeBn6aWT4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 5_v0.2.pdf</a></p>
             <br />
             <p>"Orientation Question and Answer" pdf of the week: <a href="https://drive.google.com/file/d/1NHq27ohxGcudVRp1M8eyl3cltnkopc_U/view?usp=sharing" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng_Week 5_v0.2.pdf</a></p>
             <br />
@@ -252,7 +252,7 @@ export function WEEK_1() {
         <div>
             <p>Epic: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_epic" target="_blank" rel="noopener noreferrer">Week 1 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
-            <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v0.1.pdf</a></p>
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v0.1.pdf</a></p>
         </div>
     );
 }
