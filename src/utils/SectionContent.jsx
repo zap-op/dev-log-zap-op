@@ -6,7 +6,7 @@ export function ISSUE_BOARD() {
             <p>All Tasks: <a href="https://jira.external-share.com/issue/35117/all_tasks" target="_blank" rel="noopener noreferrer">Issues</a></p>
             <p>Document Tasks: <a href="https://jira.external-share.com/issue/35115/document_tasks" target="_blank" rel="noopener noreferrer">Document Issues</a></p>
             <p>Development Tasks: <a href="https://jira.external-share.com/issue/35116/development_tasks" target="_blank" rel="noopener noreferrer">Development Issues</a></p>
-            <p>Main Task: <a href="https://jira.external-share.com/issue/35110/main_tasks" target="_blank" rel="noopener noreferrer">Main Task</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/35110/epic" target="_blank" rel="noopener noreferrer">Epic</a></p>
         </div>
     );
 }
@@ -56,7 +56,7 @@ export function SNAPSHOT_DOC() {
 export function WEEK_17() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44252/week_17_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 17 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/44252/week_17_sprint_epic" target="_blank" rel="noopener noreferrer">Week 17 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/44251/week_17_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 17 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oZGaR7iGOR_k47TA66NAYy8dHu4vuWAh/view?usp=share_link" target="_blank" rel="noopener noreferrer">Product Backlog_Week 16_v2.3.0.pdf</a></p>
@@ -67,7 +67,7 @@ export function WEEK_17() {
 export function WEEK_16() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44250/week_16_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 16 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/44250/week_16_sprint_epic" target="_blank" rel="noopener noreferrer">Week 16 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/44249/week_16_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 16 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1ls_viO64ru8uNpXnm2NDFGWY71v1yDv_/view?usp=share_link" target="_blank" rel="noopener noreferrer">Product Backlog_Week 16_v2.3.0.pdf</a></p>
@@ -81,7 +81,7 @@ export function WEEK_16() {
 export function WEEK_15() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44246/week_15_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 15 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/44246/week_15_sprint_epic" target="_blank" rel="noopener noreferrer">Week 15 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/44245/week_15_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 15 Sprint Tasks</a></p>
             <br />
             <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/11xcXh5GlLsyNa4tXVOf37aVcXJJeEmio/view?usp=share_link" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 15_v1.0.0.pdf</a></p>
@@ -92,7 +92,7 @@ export function WEEK_15() {
 export function WEEK_14() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/44244/week_14_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 14 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/44244/week_14_sprint_epic" target="_blank" rel="noopener noreferrer">Week 14 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/44243/week_14_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 14 Sprint Tasks</a></p>
         </div>
     );
@@ -101,7 +101,7 @@ export function WEEK_14() {
 export function WEEK_13() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41729/week_13_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 13 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/41729/week_13_sprint_epic" target="_blank" rel="noopener noreferrer">Week 13 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41728/week_13_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 13 Sprint Tasks</a></p>
         </div>
     );
@@ -110,7 +110,7 @@ export function WEEK_13() {
 export function WEEK_12() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41727/week_12_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 12 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/41727/week_12_sprint_epic" target="_blank" rel="noopener noreferrer">Week 12 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41726/week_12_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 12 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1NdIkb2q-PhVc-nCMnm2CKsSz5d8f3-OX/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 12_v2.2.1.pdf</a></p>
@@ -130,7 +130,7 @@ export function WEEK_12() {
 export function WEEK_11() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41725/week_11_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/41725/week_11_sprint_epic" target="_blank" rel="noopener noreferrer">Week 11 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41723/week_11_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 11 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1gSxInNO-HzOXJkyEGmxWRZymEb_jNMCe/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 11_v2.2.pdf</a></p>
@@ -141,7 +141,7 @@ export function WEEK_11() {
 export function WEEK_10() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41115/week_10_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/41115/week_10_sprint_epic" target="_blank" rel="noopener noreferrer">Week 10 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41114/week_10_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 10 Sprint Tasks</a></p>
         </div>
     );
@@ -150,7 +150,7 @@ export function WEEK_10() {
 export function WEEK_9() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41113/week_9_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/41113/week_9_sprint_epic" target="_blank" rel="noopener noreferrer">Week 9 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41112/week_9_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 9 Sprint Tasks</a></p>
             <br />
             <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1UfQBMwvZWfCscGhQnIpAFSDv1ug5SEFm/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 9_v0.3.1.pdf</a></p>
@@ -163,7 +163,7 @@ export function WEEK_9() {
 export function WEEK_8() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/41091/week_8_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/41091/week_8_sprint_epic" target="_blank" rel="noopener noreferrer">Week 8 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/41090/week_8_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 8 Sprint Tasks</a></p>
         </div>
     );
@@ -172,7 +172,7 @@ export function WEEK_8() {
 export function WEEK_7() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39235/week_7_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/39235/week_7_sprint_epic" target="_blank" rel="noopener noreferrer">Week 7 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/39234/week_7_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 7 Sprint Tasks</a></p>
             <br />
             <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1pRwdF7ZPqhrD7lJABCLX_5LOdQhO57gD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 7_v0.3.pdf</a></p>
@@ -185,7 +185,7 @@ export function WEEK_7() {
 export function WEEK_6() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/39233/week_6_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/39233/week_6_sprint_epic" target="_blank" rel="noopener noreferrer">Week 6 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/39232/week_6_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 6 Sprint Tasks</a></p>
         </div>
     );
@@ -194,7 +194,7 @@ export function WEEK_6() {
 export function WEEK_5() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/38348/week_5_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/38348/week_5_sprint_epic" target="_blank" rel="noopener noreferrer">Week 5 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/38347/week_5_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 5 Sprint Tasks</a></p>
             <br />
             <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1FhvbdaAXiCGKvpmgEZZI5PRIeBn6aWT4/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 5_v0.2.pdf</a></p>
@@ -209,7 +209,7 @@ export function WEEK_5() {
 export function WEEK_4() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/37706/week_4_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/37706/week_4_sprint_epic" target="_blank" rel="noopener noreferrer">Week 4 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/37705/week_4_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 4 Sprint Tasks</a></p>
             <br />
             <p>"Product Backlog" pdf of the week: <a href="https://drive.google.com/file/d/1oIRsUk5oRuvwF3v5x9tbq-rQB4ngNVWS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Product Backlog_Week 4_v2.0.pdf</a></p>
@@ -223,7 +223,7 @@ export function WEEK_4() {
 export function WEEK_3() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/36744/week_3_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 3 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/36744/week_3_sprint_epic" target="_blank" rel="noopener noreferrer">Week 3 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/36742/week_3_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 3 Sprint Tasks</a></p>
         </div>
     );
@@ -232,7 +232,7 @@ export function WEEK_3() {
 export function WEEK_2() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/35760/week_2_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/35760/week_2_sprint_epic" target="_blank" rel="noopener noreferrer">Week 2 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/35759/week_2_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 2 Sprint Tasks</a></p>
             <br />
             <p>Tracking page of "Orientation Question and Answer": <a href="https://confluence.external-share.com/content/46316/c_u_h_i_nh_h_ng" target="_blank" rel="noopener noreferrer">Câu hỏi định hướng</a></p>
@@ -250,7 +250,7 @@ export function WEEK_2() {
 export function WEEK_1() {
     return (
         <div>
-            <p>Main Tasks: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_main_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Main Tasks</a></p>
+            <p>Epic: <a href="https://jira.external-share.com/issue/35122/week_1_sprint_epic" target="_blank" rel="noopener noreferrer">Week 1 Sprint Epic</a></p>
             <p>All Tasks: <a href="https://jira.external-share.com/issue/35118/week_1_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 1 Sprint Tasks</a></p>
             <p>"Detailed Outline" pdf of the week: <a href="https://drive.google.com/file/d/1p_PimkkIHTGMPpOdxGlJog0wJuxnmKwE/view?usp=sharing" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Week 1_v0.1.pdf</a></p>
         </div>
