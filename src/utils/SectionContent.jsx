@@ -15,7 +15,7 @@ export function REPO() {
     return (
         <div>
             <p>Github Organization: <a href="https://github.com/zap-op" target="_blank" rel="noopener noreferrer">zap-op</a></p>
-            <p>Detailed Outline - Latex: <a href="https://github.com/zap-op/thesis-doc" target="_blank" rel="noopener noreferrer">thesis-doc</a></p>
+            <p>Thesis Proposal - Latex: <a href="https://github.com/zap-op/thesis-proposal" target="_blank" rel="noopener noreferrer">thesis-proposal</a></p>
             <p>Backend: <a href="https://github.com/zap-op/zap-op-backend" target="_blank" rel="noopener noreferrer">zap-op-backend</a></p>
             <p>Frontend: <a href="https://github.com/zap-op/zap-op-frontend" target="_blank" rel="noopener noreferrer">zap-op-frontend</a></p>
             <p>Development Log Page: <a href="https://github.com/zap-op/dev-log-zap-op" target="_blank" rel="noopener noreferrer">dev-log-zap-op</a></p>
