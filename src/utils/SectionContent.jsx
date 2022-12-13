@@ -53,6 +53,15 @@ export function SNAPSHOT_DOC() {
     );
 }
 
+export function WEEK_21() {
+    return (
+        <div>
+            <p>Story: <a href="https://jira.external-share.com/issue/49248/week_21_sprint_story" target="_blank" rel="noopener noreferrer">Week 21 Sprint Story</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/49247/week_21_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 21 Sprint Tasks</a></p>
+        </div>
+    );
+}
+
 export function WEEK_20() {
     return (
         <div>
