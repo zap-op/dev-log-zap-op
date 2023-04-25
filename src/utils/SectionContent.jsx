@@ -49,6 +49,7 @@ export function THESIS_DOC() {
     return (
         <div>
             <p>Tracking page of "Applied Thesis - Chapter 1": <a href="https://confluence.external-share.com/content/54023/ch_ng_1_gi_i_thi_u_t_i" target="_blank" rel="noopener noreferrer">Applied Thesis - Chapter 1</a></p>
+            <p>Tracking page of "Applied Thesis - Chapter 5": <a href="https://confluence.external-share.com/content/68288/ch_ng_5_t_ng_k_t_v_nh_gi" target="_blank" rel="noopener noreferrer">Applied Thesis - Chapter 5</a></p>
         </div>
     );
 }
@@ -57,6 +58,26 @@ export function SNAPSHOT_DOC() {
     return (
         <div>
             <p>Snapshot Document Folder: <a href="https://drive.google.com/drive/folders/12VgMMc487mXa6Hs8TZRMP-xBs247D8GZ?usp=sharing" target="_blank" rel="noopener noreferrer">Snapshot document</a></p>
+        </div>
+    );
+}
+
+export function SPRINT_30() {
+    return (
+        <div>
+            <p>Story: <a href="https://jira.external-share.com/issue/68330/sprint_30_story" target="_blank" rel="noopener noreferrer">Sprint 30 Story</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/68329/sprint_30_tasks" target="_blank" rel="noopener noreferrer">Sprint 30 Tasks</a></p>
+            <br />
+            <p>"Thesis Proposal" pdf of the week: <a href="https://drive.google.com/file/d/1kgTk6COcOborCRMldGh62wXbORzUBIbz/view?usp=share_link" target="_blank" rel="noopener noreferrer">Đề cương chi tiết_Sprint 30_v1.1.2.pdf</a></p>
+            <br />
+            <p>"Backend Architecture" pdf of the week: <a href="https://drive.google.com/file/d/1ecWpYTphkWeWCnc_hXIrJUNGJgOIQtYt/view?usp=share_link" target="_blank" rel="noopener noreferrer">Backend Architecture_Sprint 30_v1.3.pdf</a></p>
+            <br />
+            <p>"Process Flow" pdf of the week: <a href="https://drive.google.com/file/d/1qL77FG8LSbX5UT7mBA2HQDr5NN5mdQx9/view?usp=share_link" target="_blank" rel="noopener noreferrer">Process Flow_Sprint 30_v0.2.pdf</a></p>
+            <br />
+            <p>"Applied Thesis - Chapter 1" pdf of the week: <a href="https://drive.google.com/file/d/1R8-o95DiZ1-BJzP73-ZwQJ3BjPEbK3Ij/view?usp=share_link" target="_blank" rel="noopener noreferrer">Chương 1 - Giới thiệu đề tài_Sprint 30_v1.1.0</a></p>
+            <br />
+            <p>Tracking page of "Applied Thesis - Chapter 5": <a href="https://confluence.external-share.com/content/68288/ch_ng_5_t_ng_k_t_v_nh_gi" target="_blank" rel="noopener noreferrer">Applied Thesis - Chapter 5</a></p>
+            <p>"Applied Thesis - Chapter 5" pdf of the week: <a href="https://drive.google.com/file/d/1wHwmurA_IZMMCiCMsh5tj4pRzuYLxA0N/view?usp=share_link" target="_blank" rel="noopener noreferrer">Chương 5 - Tổng kết và Đánh giá_Sprint 30_v1.0.0</a></p>
         </div>
     );
 }
