@@ -1,5 +1,13 @@
 import React from 'react';
 
+export const PRODUCTION = () => {
+    return (
+        <div>
+            <p>Web Application: <a href="https://owlens.pro" target="_blank" rel="noopener noreferrer">owlens.pro</a></p>
+        </div>
+    )
+}
+
 export function ISSUE_BOARD() {
     return (
         <div>
@@ -49,6 +57,17 @@ export function SNAPSHOT_DOC() {
     return (
         <div>
             <p>Snapshot Document Folder: <a href="https://drive.google.com/drive/folders/12VgMMc487mXa6Hs8TZRMP-xBs247D8GZ?usp=sharing" target="_blank" rel="noopener noreferrer">Snapshot document</a></p>
+        </div>
+    );
+}
+
+export function WEEK_28() {
+    return (
+        <div>
+            <p>Story: <a href="https://jira.external-share.com/issue/52551/week_28_sprint_story" target="_blank" rel="noopener noreferrer">Week 28 Sprint Story</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/52550/week_28_sprint_tasks" target="_blank" rel="noopener noreferrer">Week 28 Sprint Tasks</a></p>
+            <br />
+            <p>Production: <a href="https://owlens.pro" target="_blank" rel="noopener noreferrer">owlens.pro</a></p>
         </div>
     );
 }
