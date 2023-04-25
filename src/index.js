@@ -11,6 +11,9 @@ root.render(
     <div className="app-board-container">
         <Board>
             <PartBoard title="General Infomation">
+                <SectionBoard title="Product">
+                    <SectionContent.PRODUCTION />
+                </SectionBoard>
                 <SectionBoard title="Tasks">
                     <SectionContent.ISSUE_BOARD />
                 </SectionBoard>
@@ -30,6 +33,9 @@ root.render(
                 </SectionBoard>
             </PartBoard>
             <PartBoard title="Weekly">
+                <SectionBoard title="Week 28" startDate="20-02-2023" endDate="13-03-2023">
+                    <SectionContent.WEEK_28 />
+                </SectionBoard>
                 <SectionBoard title="Week 27" startDate="13-02-2023" endDate="20-02-2023">
                     <SectionContent.WEEK_27 />
                 </SectionBoard>
