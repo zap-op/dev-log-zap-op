@@ -41,6 +41,7 @@ export function PRODUCT_DOC() {
             <p>Database Design: <a href="https://confluence.external-share.com/content/51837/database_design" target="_blank" rel="noopener noreferrer">Database Design</a></p>
             <p>Process Flow: <a href="https://confluence.external-share.com/content/51838/process_flow" target="_blank" rel="noopener noreferrer">Process Flow</a></p>
             <p>Preference Prototype: <a href="https://confluence.external-share.com/content/51839/preference_prototype" target="_blank" rel="noopener noreferrer">Preference Prototype</a></p>
+            <p>Compilation and Deployment Guide: <a href="https://confluence.external-share.com/content/69934/h_ng_d_n_bi_n_d_ch_v_tri_n_khai" target="_blank" rel="noopener noreferrer">Hướng dẫn Biên dịch và Triển khai</a></p>
         </div>
     );
 }
@@ -58,6 +59,18 @@ export function SNAPSHOT_DOC() {
     return (
         <div>
             <p>Snapshot Document Folder: <a href="https://drive.google.com/drive/folders/12VgMMc487mXa6Hs8TZRMP-xBs247D8GZ?usp=sharing" target="_blank" rel="noopener noreferrer">Snapshot document</a></p>
+        </div>
+    );
+}
+
+export function SPRINT_31() {
+    return (
+        <div>
+            <p>Story: <a href="https://jira.external-share.com/issue/68332/sprint_31_story" target="_blank" rel="noopener noreferrer">Sprint 31 Story</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/68331/sprint_31_tasks" target="_blank" rel="noopener noreferrer">Sprint 31 Tasks</a></p>
+            <br />
+            <p>Tracking page of "Compilation and Deployment Guide": <a href="https://confluence.external-share.com/content/69934/h_ng_d_n_bi_n_d_ch_v_tri_n_khai" target="_blank" rel="noopener noreferrer">Compilation and Deployment Guide</a></p>
+            <p>"Compilation and Deployment Guide" pdf of the week: <a href="https://drive.google.com/file/d/1AYBfOlYrj2yrQibOFEvrKtjz53IZ2NcB/view?usp=share_link" target="_blank" rel="noopener noreferrer">Tài liệu hướng dẫn Biên dịch và Triển khai_Sprint 31_v0.3</a></p>
         </div>
     );
 }
