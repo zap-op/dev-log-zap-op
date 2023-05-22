@@ -33,6 +33,9 @@ root.render(
                 </SectionBoard>
             </PartBoard>
             <PartBoard title="Weekly">
+                <SectionBoard title="Sprint 33" startDate="14-05-2023" endDate="21-05-2023">
+                    <SectionContent.SPRINT_33 />
+                </SectionBoard>
                 <SectionBoard title="Sprint 32" startDate="07-05-2023" endDate="14-05-2023">
                     <SectionContent.SPRINT_32 />
                 </SectionBoard>

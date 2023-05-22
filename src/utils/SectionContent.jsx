@@ -63,6 +63,17 @@ export function SNAPSHOT_DOC() {
     );
 }
 
+export function SPRINT_33() {
+    return (
+        <div>
+            <p>Story: <a href="https://jira.external-share.com/issue/72685/sprint_33_story" target="_blank" rel="noopener noreferrer">Sprint 33 Story</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/72684/sprint_33_tasks" target="_blank" rel="noopener noreferrer">Sprint 33 Tasks</a></p>
+            <br />
+            <p>"Compilation and Deployment Guide" pdf of the week: <a href="https://drive.google.com/file/d/1I1RNvd0cYaU_VE1UzGEYU0FD8hm4S898/view?usp=share_link" target="_blank" rel="noopener noreferrer">Tài liệu hướng dẫn Biên dịch và Triển khai_Sprint 33_v1.0</a></p>
+        </div>
+    );
+}
+
 export function SPRINT_32() {
     return (
         <div>
