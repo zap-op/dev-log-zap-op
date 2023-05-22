@@ -63,6 +63,15 @@ export function SNAPSHOT_DOC() {
     );
 }
 
+export function SPRINT_32() {
+    return (
+        <div>
+            <p>Story: <a href="https://jira.external-share.com/issue/72682/sprint_32_story" target="_blank" rel="noopener noreferrer">Sprint 32 Story</a></p>
+            <p>All Tasks: <a href="https://jira.external-share.com/issue/72680/sprint_32_tasks" target="_blank" rel="noopener noreferrer">Sprint 32 Tasks</a></p>
+        </div>
+    );
+}
+
 export function SPRINT_31() {
     return (
         <div>
